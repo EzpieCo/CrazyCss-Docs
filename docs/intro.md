@@ -17,7 +17,7 @@ To install CrazyCss ether use NPM or use a CDN link.
 _NPM_
 
 ```shell
-npm i @ezpie/crazycss
+npm i @ezpie/crazy
 ```
 
 After installing with npm using _@import_ to import the library:
@@ -35,7 +35,7 @@ _CDN_
 />
 ```
 
-### Community
+## Community
 
 Stay up to date with latest releases of CrazyCss.
 Follow up with the community too.
