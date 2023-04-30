@@ -33,4 +33,5 @@
   --ifm-color-danger: rgb(255, 8, 8);
 }
 
-@import "@ezpie/crazy/css/crazy.min.css";
+/* using development version for sake of latest utility use. */
+@import "@ezpie/crazy/css/crazy.css";
