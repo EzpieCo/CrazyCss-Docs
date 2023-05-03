@@ -5,7 +5,8 @@ sidebar_position: 7
 Control the width and height of elements with the **h-, w-** utility classes.
 
 ## Width
-CrazyCss provides width styling with values ranging from 10% to 100%
+
+CrazyCss provides width styling with values ranging from 10% to 100%.
 
 <div class="mb-5">
     <div class="bg-blue p-2 mb-1 w-1">width of 10%</div>
@@ -33,9 +34,10 @@ CrazyCss provides width styling with values ranging from 10% to 100%
 <div class="w-10">width of 100%</div>
 ```
 
-<p class="text-red"><b>NOTE:</b> keep in mind that all the widths have a 10% gap.</p>
+<p class="text-red"><b>NOTE:</b> Keep in mind that all the widths have a 10% gap.</p>
 
 ## Height
+
 Controlling height is the same as width, but with the **h-** utility class.
 
 <div class="mb-5">

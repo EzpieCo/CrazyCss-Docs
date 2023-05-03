@@ -36,7 +36,7 @@ You can control the thickness of the border of an element with the **.border-** 
 
 ## Border Styles
 
-CrazyCss provides the main border styles you may need.
+CrazyCss provides the border styles you may need.
 
 <p class="border-1 border-solid">.border-solid</p>
 <p class="border-1 border-none">.border-none</p>
@@ -76,7 +76,7 @@ You can apply different colors to the border with **border-{color}** utility cla
 
 ## Individual border thickness
 
-With CrazyCss you can apply thickness of individual border sides.
+With CrazyCss, you can apply thickness to individual border sides.
 
 <p class="border-top-1">.border-top-1</p>
 <p class="border-bottom-1">.border-bottom-1</p>

@@ -6,7 +6,7 @@ Manage layout, components and navbars with CrazyCss's flexbox utility classes.
 
 ## Add flex behavior
 
-To apply flex behavior in you component, add the **flex** class to them.
+To apply flex behavior in your component, add the **flex** class to them.
 
 <div class="flex bg-gray p-2 text-white mb-5">This is a flexbox component
 </div>
@@ -22,9 +22,9 @@ To apply flex behavior in you component, add the **flex** class to them.
 <div class="flex-inline">This is a inline flexbox component</div>
 ```
 
-## Directions for you flexbox
+## Directions for your flexbox
 
-You can set the direction of you flexbox with flexbox direction utilities.
+You can set the direction of your flexbox with flexbox direction utilities.
 
 To set the direction in a _row_ fashion you can use the **flex-row** and **flex-row-reverse** utility classes.
 
@@ -273,6 +273,7 @@ You can also align items of a flexbox with the **items** utilities. Choose from 
 ```
 
 ## Align Self
+
 You can also use the **align-self** css property with the **self-** utility classes. Choose from **start, end, center, baseline and stretch**.
 
 <div class="flex bg-gray mb-5 h-3">
@@ -289,15 +290,9 @@ You can also use the **align-self** css property with the **self-** utility clas
 
 ```html
 <div class="flex">
-    <div>
-    Flexbox 1
-    </div>
-    <div class="self-start">
-      align self
-    </div>
-    <div>
-    Flexbox 3
-    </div>
+  <div>Flexbox 1</div>
+  <div class="self-start">align self</div>
+  <div>Flexbox 3</div>
 </div>
 ```
 
@@ -315,15 +310,9 @@ You can also use the **align-self** css property with the **self-** utility clas
 
 ```html
 <div class="flex">
-    <div>
-    Flexbox 1
-    </div>
-    <div class="self-end">
-      align self
-    </div>
-    <div>
-    Flexbox 3
-    </div>
+  <div>Flexbox 1</div>
+  <div class="self-end">align self</div>
+  <div>Flexbox 3</div>
 </div>
 ```
 
@@ -341,15 +330,9 @@ You can also use the **align-self** css property with the **self-** utility clas
 
 ```html
 <div class="flex">
-    <div>
-    Flexbox 1
-    </div>
-    <div class="self-center">
-      align self
-    </div>
-    <div>
-    Flexbox 3
-    </div>
+  <div>Flexbox 1</div>
+  <div class="self-center">align self</div>
+  <div>Flexbox 3</div>
 </div>
 ```
 
@@ -367,15 +350,9 @@ You can also use the **align-self** css property with the **self-** utility clas
 
 ```html
 <div class="flex">
-    <div>
-    Flexbox 1
-    </div>
-    <div class="self-baseline">
-      align self
-    </div>
-    <div>
-    Flexbox 3
-    </div>
+  <div>Flexbox 1</div>
+  <div class="self-baseline">align self</div>
+  <div>Flexbox 3</div>
 </div>
 ```
 
@@ -393,19 +370,14 @@ You can also use the **align-self** css property with the **self-** utility clas
 
 ```html
 <div class="flex">
-    <div>
-    Flexbox 1
-    </div>
-    <div class="self-stretch">
-    align self
-    </div>
-    <div>
-    Flexbox 3
-    </div>
+  <div>Flexbox 1</div>
+  <div class="self-stretch">align self</div>
+  <div>Flexbox 3</div>
 </div>
 ```
 
 ## Wrap flexbox
+
 You can set how the flexbox should wrap. Use **.flex-nowrap** and **.flex-wrap** utilities for the following.
 
 <div class="flex bg-gray mb-5 flex-nowrap w-2">

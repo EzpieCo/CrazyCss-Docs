@@ -4,11 +4,11 @@ sidebar_position: 5
 
 All utility classes for working with paddings
 
-With CrazyCss you can add padding from value of 1 to 10.
+With CrazyCss, you can add padding from value of 1 to 10.
 
 ## Padding for all sides
 
-You can apply padding for all sides with **p-** utility class.
+You can apply padding to all sides with **p-** utility class.
 
 <p class="p-1">.p-1</p>
 <p class="p-2">.p-2</p>
