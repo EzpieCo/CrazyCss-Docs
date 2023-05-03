@@ -42,4 +42,4 @@ Follow up with the community too.
 
 - Follow CrazyCss in [twitter](https://twitter.com/EzpieCo)
 - Join the [discord server](https://discord.gg/VXbjU5KDza)
-- Start CrazyCss in [GitHub](https://github.com/ezpieco/crazycss)
+- Star CrazyCss in [GitHub](https://github.com/ezpieco/crazycss)
