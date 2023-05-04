@@ -2,50 +2,52 @@
 sidebar_position: 1
 ---
 
-With CrazyCss you can add hover effects to you elements.
+With CrazyCss, you can add hover effects to your elements.
 
-Hover effect in CrazyCss is kind of same as in [tailwind](https://tailwindcss.com/).
+The hover effect in CrazyCss is similar to the one in [Tailwind CSS](https://tailwindcss.com/).
 
 Just add the **hover:** before any class.
 
-<p class="text-red"><b>NOTE:</b> There are some classes which don't have hover effects</p>
+**- **<span class="text-red font-bold">NOTE: There are some classes which don't have hover effects.</span> [Click here](/docs/Effects/hover#classes-with-no-hover-effects) to view the classes without hover effects.
 
 ## Text
+
 To apply hover add the **hover:text-{color you want}**
 
-<p class="text-red hover:text-blue">Hover it to change into blue</p>
+<p class="text-red hover:text-blue">Hover this to change the text color to blue!</p>
 
 ```html
-<p class="text-red hover:text-blue">Hover it to change into blue</p>
+<p class="text-red hover:text-blue">
+  Hover this to change the text color to blue!
+</p>
 ```
 
 ## Background
 
 <div class="bg-green hover:bg-blue p-2 mb-5">
-    Change me into blue
+    Hover this to change the background color to blue!
 </div>
 
 ```html
 <div class="bg-green hover:bg-blue">
-    Change me into blue
+  Hover this to change the background color to blue!
 </div>
 ```
 
 ## Margin and Padding
-You can also change the margin and padding with hover effects
+
+You can also change the margin and padding with hover effects.
 
 <div class="bg-blue hover:p-3 mb-5">
-    To packed. Hover over me to open up some space
+    Too packed! Hover over me to open up some space.
 </div>
 
 ```html
-<div class="hover:p-3">
-    To packed. Hover over me to open up some space
-</div>
+<div class="hover:p-3">Too packed! Hover over me to open up some space.</div>
 ```
 
 <div class="bg-green hover:mb-5">
-    Push the div below me far away
+    Push the div below me far away!
 </div>
 
 <div class="bg-blue mb-5">
@@ -53,15 +55,14 @@ You can also change the margin and padding with hover effects
 </div>
 
 ```html
-<div class="hover:mb-5">
-    Push the div below me far away
-</div>
+<div class="hover:mb-5">Push the div below me far away!</div>
 ```
 
 ## Classes with no hover effects
-There are some classes with still don't have any hover effect for now. You can start star CrazyCss in [GitHub](https://github.com/ezpieco/crazycss), to stay updated.
 
-Classes with no hover effects yet:
+There are some classes that aren't capable of using the 'hover:' effect currently. You can star CrazyCss on [GitHub](https://github.com/ezpieco/crazycss) to stay updated.
+
+Classes that aren't compatible with 'hover:' yet:
 
 - Font
 - Typography

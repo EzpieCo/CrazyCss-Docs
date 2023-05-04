@@ -4,11 +4,11 @@ sidebar_position: 4
 
 All utility classes for working with margins
 
-With CrazyCss you can add margin from value of 1 to 10.
+With CrazyCss, you can add margin from value of 1 to 10.
 
 ## Margin all sides
 
-You can add margin for all sides with the **m-** class.
+You can add margin to all sides with the **m-** class.
 
 <p class="m-1">.m-1</p>
 <p class="m-2">.m-2</p>

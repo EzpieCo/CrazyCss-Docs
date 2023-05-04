@@ -1,5 +1,6 @@
 .beta {
   background-color: var(--ifm-color-danger);
   text-align: center;
-  padding: 10px 0px 10px 0px;
+  padding: 12px 0px 12px 0px;
+  color: white;
 }

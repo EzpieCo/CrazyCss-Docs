@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-Colors are one of the most important element in design. With that in mind CrazyCss brings you 7 useful colors, with _hover_ state.
+Colors are one of the most important elements in design. With that in mind, CrazyCss brings you 7 useful colors, with an optional _hover_ state.
 
 ## Text Colors
 

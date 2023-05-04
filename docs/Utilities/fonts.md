@@ -6,21 +6,21 @@ Text utilities for alignment, font size and text styles.
 
 ## Text alignment
 
-With CrazyCss you can control the alignment of your texts.
+With CrazyCss, you can control the alignment of your texts.
 
 <p class="left-align">This is on the left side</p>
 <p class="right-align">This is on the right side</p>
-<p class="center">This is on the center side</p>
+<p class="center">This is centered!</p>
 
 ```html
 <p class="left-align">This is on the left side</p>
 <p class="right-align">This is on the right side</p>
-<p class="center">This is on the center side</p>
+<p class="center">This is centered!</p>
 ```
 
 ## Font Size
 
-You can also use font sizing for you texts
+You can also use font sizing for your text.
 
 <p>normal font</p>
 <p class="font-1">.font-1</p>
